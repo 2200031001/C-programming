@@ -1,2 +1,2 @@
 # C-programming
-This repository contains basics and advanced c programming programs
+This Repository Contains Basics And Advanced C Programming Programs
